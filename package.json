@@ -19,6 +19,10 @@
     "postinstall": "ngcc"
   },
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouedraoa/ngx-intl-tel-input.git"
+  },
   "dependencies": {
     "@angular/animations": "8.x - 14.x",
     "@angular/common": "8.x - 14.x",
